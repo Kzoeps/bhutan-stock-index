@@ -16,4 +16,4 @@ first run `clean_data.py` then run `run.py`. It will output the plot of Bhutan S
 Feel free to make pull requests and play around. The data is in the root directory with the BSI data as: `BSI.xlsx` and the twitter data in the `twitter_data` directory.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Kzoeps/bhutan-stock-index/blob/main/LICENSE)
