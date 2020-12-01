@@ -142,3 +142,4 @@ cython_debug/
 
 #Misc
 .DS_Store
+stocks-env/
