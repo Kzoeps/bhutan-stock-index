@@ -5,6 +5,10 @@ from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.metrics import r2_score
 
+# 0.10903663203657565
+# intercept : 981.1283168841768
+# RSquared: 0.10649850846079478
+# Slope: [-4.89247228  0.17362076]
 def create_matching_sets(stockIndex, twitterSentiments):
     """
     Function to be able to create a DataFrame having the BSI and twitterSentiments
